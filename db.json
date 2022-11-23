@@ -1,0 +1,170 @@
+{
+    "Entrada": [
+        {
+            "id": 1,
+            "nome": "Frango à Passarinho",
+            "descrição": "1 porção de frango a passarinho com molho verde (a parte)",
+            "quantidade": "Serve 3-4 pessoas",
+            "preço": "35.0",
+            "local de preparo": "Cozinha 1"
+        },
+        {
+            "id": 2,
+            "nome": "Gurjão de Frango",
+            "descrição": "1 porção de gurjão de frango e molho rosê (a parte)",
+            "quantidade": "Serve 3-4 pessoas",
+            "preço": "37.0",
+            "local de preparo": "Cozinha 1"
+        },
+        {
+            "id": 3,
+            "nome": "Batata com Cheddar e Bacon",
+            "descrição": "1 porção de batata frita com cheddar e bacon picados",
+            "quantidade": "Serve 2-3 pessoas",
+            "preço": "25.0",
+            "local de preparo": "Cozinha 1"
+        },
+        {
+            "id": 4,
+            "nome": "Carne Seca Acebolada",
+            "descrição": "1 porção carne seca com cebolas feitas no azeite",
+            "quantidade": "Serve 2-3 pessoas",
+            "preço": "34.0",
+            "local de preparo": "Cozinha 1"
+        },
+        {
+            "id": 5,
+            "nome": "César Salad",
+            "descrição": "1 porção de cesar salad com nachos ralados",
+            "quantidade": "Serve 1-2 pessoas",
+            "preço": "27.0",
+            "local de preparo": "Cozinha 1"
+        }
+    ],
+    "Prato Principal": [
+        {
+            "id": 1,
+            "nome": "Feijoada",
+            "descrição": "1 cadeirão de feijoada, 1 porção de arroz, 1 porção de batata frita média",
+            "quantidade": "Serve 3-4 pessoas",
+            "preço": "60.0",
+            "local de preparo": "Cozinha 1"
+        },
+        {
+            "id": 2,
+            "nome": "Bifé à Parmegiana",
+            "descrição": "1 porção de bife a parmegiana, 1 porção de arroz, 1 porção de batata frita média",
+            "quantidade": "Serve 2-3 pessoas",
+            "preço": "55.0",
+            "local de preparo": "Cozinha 1"
+        },
+        {
+            "id": 3,
+            "nome": "Frango à Milanesa",
+            "descrição": "1 porção de frango a milanesa, 1 porção de arroz, 1 porção de batata frita média",
+            "quantidade": "Serve 2-3 pessoas",
+            "preço": "55.0",
+            "local de preparo": "Cozinha 1"
+        },
+        {
+            "id": 4,
+            "nome": "Iscas de Peixe",
+            "descrição": "1 porção de iscas de peixe, 1 porção de arroz, 1 candeirão de pirão de peixe",
+            "quantidade": "Serve 2-3 pessoas",
+            "preço": "75.0",
+            "local de preparo": "Cozinha 1"
+        },
+        {
+            "id": 5,
+            "nome": "Almôndega de Soja",
+            "descrição": "1 candeirão cheio de almôndegas de carne de soja, 1 porção de arroz, 1/2 porção de tomate cereja",
+            "quantidade": "Serve 2-3 pessoas",
+            "preço": "60.0",
+            "local de preparo": "Cozinha 1"
+        }
+    ],
+    "Bebidas": [
+        {
+            "id": 1,
+            "nome": "Cervejas",
+            "descrição": "1 tulipa (300ml); brahma, skol, original, amstel",
+            "quantidade": "Serve 1 pessoas",
+            "preço": "9.0",
+            "local de preparo": "Bar"
+        },
+        {
+            "id": 2,
+            "nome": "Vinhos",
+            "descrição": "1 taça de vinho; rosé, tinto, branco",
+            "quantidade": "Serve 3-4 pessoas",
+            "preço": "15.0",
+            "local de preparo": "Bar"
+        },
+        {
+            "id": 3,
+            "nome": "Refrigerantes",
+            "descrição": "1 lata de refrigerante; coca, pepsi, fanta, guaraná antártica",
+            "quantidade": "Serve 1 pessoas",
+            "preço": "8.0",
+            "local de preparo": "Bar"
+        },
+        {
+            "id": 4,
+            "nome": "Sucos",
+            "descrição": "1 jarra (1,5L) de suco; laranja, maracujá, limão, uva ",
+            "quantidade": "Serve 3-4 pessoas",
+            "preço": "25.0",
+            "local de preparo": "Bar"
+        },
+        {
+            "id": 5,
+            "nome": "Água",
+            "descrição": "1 jarra (1,5L) de água com gelo",
+            "quantidade": "Serve 3-4 pessoas",
+            "preço": "10.0",
+            "local de preparo": "Bar"
+        }
+    ],
+    "Sobremesas": [
+        {
+            "id": 1,
+            "nome":"Sorvetes",
+            "descrição":"Potes de sorvetes(250g); chocolate, napolitano, morango, maracujá, flocos, uva",
+            "quantidade":"Serve 1 pessoas",
+            "preço":"10.0",
+            "local de preparo": "Cozinha 2"
+        },
+        {
+            "id": 2,
+            "nome":"Pudin",
+            "descrição":"1 pote de pudin com calda de açúcar caramelizado (150g)",
+            "quantidade":"Serve 1 pessoas",
+            "preço":"14.0",
+            "local de preparo": "Cozinha 2"
+        },
+        {
+            "id": 3,
+            "nome":"Pavê",
+            "descrição":"1 travessa de pavê tradicional (450g)",
+            "quantidade":"Serve 3-4 pessoas",
+            "preço":"45.0",
+            "local de preparo": "Cozinha 2"
+        },
+        {
+            "id": 4,
+            "nome":"Brownies",
+            "descrição":"Brownies(100g); chocolate, doce de leite ou morango ",
+            "quantidade":"Serve 1 pessoas",
+            "preço":"10.0",
+            "local de preparo": "Cozinha 2"
+        },
+        {
+            "id": 5,
+            "nome":"Cocada",
+            "descrição":"Cocada Bahiana(150g); coco seco",
+            "quantidade":"Serve 1 pessoas",
+            "preço":"8.0",
+            "local de preparo": "Cozinha 2"
+        }
+    ]
+}
